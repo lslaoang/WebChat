@@ -1,6 +1,6 @@
 # WebChat
 Simple WebChat application using SpringBoot WebSocket
 
-Access the thru this link:
+Access the app thru this link:
 
 https://web-chat-springboot.herokuapp.com/
